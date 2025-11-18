@@ -1,3 +1,4 @@
+export * from "./Badge/Badge";
 export * from "./Button/Button";
 export * from "./ButtonGroup/ButtonGroup";
 export * from "./Input/Input";
